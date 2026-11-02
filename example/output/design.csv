@@ -1,0 +1,5 @@
+library_id,group,length,size,unique_parents_covered,parent_ids_json,options_json
+LIB01,all,10,144,9,"[""peptide_002"", ""peptide_008"", ""peptide_046"", ""peptide_010"", ""peptide_015"", ""peptide_019"", ""peptide_035"", ""peptide_047"", ""peptide_049"", ""peptide_050""]","[[""L"", ""T""], [""S"", ""T""], [""F"", ""M"", ""S""], [""L""], [""E"", ""L"", ""Y""], [""W"", ""Y""], [""W""], [""L"", ""Q""], [""L""], [""L""]]"
+LIB02,all,10,144,10,"[""peptide_001"", ""peptide_004"", ""peptide_005"", ""peptide_020"", ""peptide_025"", ""peptide_034"", ""peptide_039"", ""peptide_040"", ""peptide_041"", ""peptide_043""]","[[""T""], [""F""], [""F"", ""M"", ""S""], [""L""], [""E"", ""L"", ""Y""], [""W"", ""Y""], [""A"", ""W""], [""L"", ""Q""], [""L""], [""L"", ""P""]]"
+LIB03,all,10,8,2,"[""peptide_036"", ""peptide_048""]","[[""T""], [""F"", ""S""], [""M"", ""S""], [""H""], [""E"", ""Y""], [""W""], [""A""], [""Q""], [""L""], [""L""]]"
+LIB04,all,10,48,3,"[""peptide_003"", ""peptide_009"", ""peptide_029""]","[[""T""], [""S""], [""F"", ""M"", ""S""], [""L""], [""E"", ""Y""], [""L"", ""Y""], [""W""], [""L"", ""Q""], [""L"", ""Q""], [""L""]]"

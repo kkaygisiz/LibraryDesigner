@@ -1,0 +1,41 @@
+library_id,position,residue_options_json,option_count,fixed_within_library
+LIB01,1,"[""L"", ""T""]",2,False
+LIB01,2,"[""S"", ""T""]",2,False
+LIB01,3,"[""F"", ""M"", ""S""]",3,False
+LIB01,4,"[""L""]",1,True
+LIB01,5,"[""E"", ""L"", ""Y""]",3,False
+LIB01,6,"[""W"", ""Y""]",2,False
+LIB01,7,"[""W""]",1,True
+LIB01,8,"[""L"", ""Q""]",2,False
+LIB01,9,"[""L""]",1,True
+LIB01,10,"[""L""]",1,True
+LIB02,1,"[""T""]",1,True
+LIB02,2,"[""F""]",1,True
+LIB02,3,"[""F"", ""M"", ""S""]",3,False
+LIB02,4,"[""L""]",1,True
+LIB02,5,"[""E"", ""L"", ""Y""]",3,False
+LIB02,6,"[""W"", ""Y""]",2,False
+LIB02,7,"[""A"", ""W""]",2,False
+LIB02,8,"[""L"", ""Q""]",2,False
+LIB02,9,"[""L""]",1,True
+LIB02,10,"[""L"", ""P""]",2,False
+LIB03,1,"[""T""]",1,True
+LIB03,2,"[""F"", ""S""]",2,False
+LIB03,3,"[""M"", ""S""]",2,False
+LIB03,4,"[""H""]",1,True
+LIB03,5,"[""E"", ""Y""]",2,False
+LIB03,6,"[""W""]",1,True
+LIB03,7,"[""A""]",1,True
+LIB03,8,"[""Q""]",1,True
+LIB03,9,"[""L""]",1,True
+LIB03,10,"[""L""]",1,True
+LIB04,1,"[""T""]",1,True
+LIB04,2,"[""S""]",1,True
+LIB04,3,"[""F"", ""M"", ""S""]",3,False
+LIB04,4,"[""L""]",1,True
+LIB04,5,"[""E"", ""Y""]",2,False
+LIB04,6,"[""L"", ""Y""]",2,False
+LIB04,7,"[""W""]",1,True
+LIB04,8,"[""L"", ""Q""]",2,False
+LIB04,9,"[""L"", ""Q""]",2,False
+LIB04,10,"[""L""]",1,True

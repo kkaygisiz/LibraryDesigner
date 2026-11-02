@@ -1,0 +1,25 @@
+input_record,id,sequence,reason
+6,peptide_006,TFFXLWWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+7,peptide_007,EFMHLLWXLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+11,peptide_011,TFFXLWWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+12,peptide_012,TTFLEYWLLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+13,peptide_013,TSMXYWWLLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+14,peptide_014,TTFLYWWLXX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+16,peptide_016,TFFXEYWLLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+18,peptide_018,TTFLEWWLLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+21,peptide_021,TFSXEWWLLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+22,peptide_022,TSFLEYALLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+23,peptide_023,TFSXYYWLLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+24,peptide_024,TSMXEWWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+26,peptide_026,TFMXEWWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+27,peptide_027,TSSXLLWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+28,peptide_028,TTMXEYWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+30,peptide_030,TFFLLYWXLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+31,peptide_031,TFFXLYWQLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+32,peptide_032,TFFXLWWXQL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+33,peptide_033,TTMXYYKLLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+37,peptide_037,TFSLLWWXLP,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+38,peptide_038,LFSXEWALLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+42,peptide_042,TTMLEWWLLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+44,peptide_044,TFMLEWWXLL,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
+45,peptide_045,TFMLEYWQLX,Noncanonical or unknown amino-acid symbols: ['X']. Unknown residues are not substituted or treated as concrete monomers.
